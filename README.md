@@ -4,8 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 🔗 Live Website
 
-[https://venkataravi-teja.github.io/](https://venkataravi-teja.github.io/Portfolio/) <!-- Update this after enabling GitHub Pages -->
-
+[https://venkataravi-teja.github.io/](https://venkataravi-teja.github.io/Portfolio/)
 ## 🛠️ Built With
 
 - HTML5
@@ -35,19 +34,16 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
   - Modal logic for viewing certificates
 
 
-*(Replace these with your actual screenshots and correct paths)*
-
 ## 🚀 Deployment (GitHub Pages)
 
 This project is hosted using **GitHub Pages**. You can visit it live at:
 
-➡️ [https://yourusername.github.io/repository-name/](https://yourusername.github.io/repository-name/)  
-*(Update with actual link)*
+➡️ [https://venkataravi-teja.github.io/Portfolio/](https://venkataravi-teja.github.io/Portfolio/) 
 
 ### To deploy:
-1. Push your changes to the `main` branch.
+1. Push your changes to the `master` branch.
 2. Go to **Settings > Pages** in the repo.
-3. Select source as `Deploy from branch: main` and root as `/ (root)`.
+3. Select source as `Deploy from branch: master` and root as `/ (root)`.
 4. Save and wait for GitHub to publish it.
 
 ## 🙌 Acknowledgements
