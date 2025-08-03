@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 🔗 Live Website
 
-[https://venkataravi-teja.github.io/](https://venkataravi-teja.github.io/) <!-- Update this after enabling GitHub Pages -->
+[https://venkataravi-teja.github.io/](https://venkataravi-teja.github.io/Portfolio/) <!-- Update this after enabling GitHub Pages -->
 
 ## 🛠️ Built With
 
